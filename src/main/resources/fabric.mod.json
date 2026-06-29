@@ -1,0 +1,48 @@
+{
+	"schemaVersion": 1,
+	"id": "yo_bombs",
+	"version": "${version}",
+	"name": "Yori3o's Explosives",
+	"description": "Adds explosives as a weapon and a useful tool.",
+	"authors": [
+		"Yori3o"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/yori3os-explosives",
+		"sources": "https://github.com/yori3o/Yori3os-Explosives",
+        "issues": "https://github.com/yori3o/Yori3os-Explosives/issues"
+	},
+	"license": "MIT License",
+	"icon": "logo.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.yori3o.yo_bombs.fabric.YoBombsFabric"
+		],
+        "client": [
+            "com.yori3o.yo_bombs.fabric.YoBombsFabricClient"
+        ],
+        "modmenu": [
+            "com.yori3o.yo_bombs.fabric.ModMenuIntegration"
+        ]
+	},
+	"mixins": [
+		"yo_bombs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=26.1",
+		"fabric-api": "*"
+	},
+    "suggests": {
+        "modmenu": "*",
+        "yet_another_config_lib_v3": "*"
+    },
+    "custom": {
+        "modmenu": {
+            "links": {
+                "modmenu.modrinth":"https://modrinth.com/mod/yori3os-explosives"
+            }
+        }
+    }
+}

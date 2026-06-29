@@ -1,0 +1,45 @@
+{
+    "item.yo_bombs.grenade": "Grenade",
+    "item.yo_bombs.bomb": "Bomb",
+    "item.yo_bombs.dynamite": "Dynamite",
+    "item.yo_bombs.sticky_grenade": "Sticky Grenade",
+    "item.yo_bombs.sticky_bomb": "Sticky Bomb",
+    "item.yo_bombs.sticky_dynamite": "Sticky Dynamite",
+
+    "entity.yo_bombs.grenade": "Grenade",
+    "entity.yo_bombs.bomb": "Bomb",
+    "entity.yo_bombs.dynamite": "Dynamite",
+    "entity.yo_bombs.sticky_grenade": "Sticky Grenade",
+    "entity.yo_bombs.sticky_bomb": "Sticky Bomb",
+    "entity.yo_bombs.sticky_dynamite": "Sticky Dynamite",
+
+    "itemGroup.yo_bombs": "Yori3o's Explosives",
+    "subtitles.yo_bombs.grenade": "A grenade fuse fizzes",
+    "subtitles.yo_bombs.bomb": "A bomb fuse smolders",
+    "subtitles.yo_bombs.dynamite": "A dynamite fuse smolders",
+    "subtitles.yo_bombs.throw": "Explosive flies",
+
+
+    "yacl3.config.yo_bombs:server_config.category.server": "Server",
+    "yacl3.config.yo_bombs:server_config.category.server.group.weapon": "Damage",
+    "yacl3.config.yo_bombs:server_config.category.server.group.time": "Time before explosion",
+    "yacl3.config.yo_bombs:server_config.category.server.group.explosion": "Explosion",
+
+    "yacl3.config.yo_bombs:server_config.defaultKnockbackMultiplier": "Knockback multiplier",
+    "yacl3.config.yo_bombs:server_config.grenadeDamageMultiplier": "Grenade damage multiplier",
+    "yacl3.config.yo_bombs:server_config.bombDamageMultiplier": "Bomb damage multiplier",
+    "yacl3.config.yo_bombs:server_config.dynamiteDamageMultiplier": "Dynamite damage multiplier",
+    "yacl3.config.yo_bombs:server_config.grenadeDetonationTime": "Grenade detonation time, seconds",
+    "yacl3.config.yo_bombs:server_config.bombDetonationTime": "Bomb detonation time, seconds",
+    "yacl3.config.yo_bombs:server_config.dynamiteDetonationTime": "Dynamite detonation time, seconds",
+    "yacl3.config.yo_bombs:server_config.grenadeRadius": "Grenade explosion radius",
+    "yacl3.config.yo_bombs:server_config.bombRadius": "Bomb explosion radius",
+    "yacl3.config.yo_bombs:server_config.dynamiteRadius": "Dynamite explosion radius",
+    "yacl3.config.yo_bombs:server_config.grenadeBreakBlocks": "Grenades explode blocks",
+    "yacl3.config.yo_bombs:server_config.bombBreakBlocks": "Bombs explode blocks",
+    "yacl3.config.yo_bombs:server_config.dynamiteBreakBlocks": "Dynamite explodes blocks.",
+
+
+    "modmenu.descriptionTranslation.yo_bombs": "Adds explosives as a weapon and a useful tool.",
+    "fml.menu.mods.info.description.yo_bombs": "Adds explosives as a weapon and a useful tool."
+}

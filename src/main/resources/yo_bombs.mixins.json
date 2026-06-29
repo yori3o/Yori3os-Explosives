@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.yori3o.yo_bombs.common.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+        "ServerExplosionMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

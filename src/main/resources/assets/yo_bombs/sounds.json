@@ -1,0 +1,26 @@
+{
+  "fuse_3_sec": {
+    "subtitle": "subtitles.yo_bombs.grenade",
+    "sounds": [
+      { "name": "yo_bombs:fuse_3_sec" }
+    ]
+  },
+  "fuse_5_sec": {
+    "subtitle": "subtitles.yo_bombs.bomb",
+    "sounds": [
+      { "name": "yo_bombs:fuse_5_sec" }
+    ]
+  },
+  "fuse_7_sec": {
+    "subtitle": "subtitles.yo_bombs.dynamite",
+    "sounds": [
+      { "name": "yo_bombs:fuse_7_sec" }
+    ]
+  },
+  "throw": {
+    "subtitle": "subtitles.yo_bombs.throw",
+    "sounds": [
+      "random/bow"
+    ]
+  }
+}
