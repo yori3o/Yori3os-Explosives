@@ -37,7 +37,7 @@
     "yacl3.config.yo_bombs:server_config.dynamiteRadius": "Dynamite explosion radius",
     "yacl3.config.yo_bombs:server_config.grenadeBreakBlocks": "Grenades explode blocks",
     "yacl3.config.yo_bombs:server_config.bombBreakBlocks": "Bombs explode blocks",
-    "yacl3.config.yo_bombs:server_config.dynamiteBreakBlocks": "Dynamite explodes blocks.",
+    "yacl3.config.yo_bombs:server_config.dynamiteBreakBlocks": "Dynamite explodes blocks",
 
 
     "modmenu.descriptionTranslation.yo_bombs": "Adds explosives as a weapon and a useful tool.",

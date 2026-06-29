@@ -75,7 +75,7 @@ public abstract class ExplosiveProjectile extends ThrowableItemProjectile {
                 if (this.isNoGravity()) {
                     if (this.level().getBlockState(attachedBlockPos).isAir()) {
                         setNoGravity(false);
-                    } else if (getDeltaMovement().lengthSqr() > 0.2d) {
+                    } else if (getDeltaMovement().lengthSqr() > 0.05d) {
                         setNoGravity(false);
                     }
                 }
