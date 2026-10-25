@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "tag": "yo_bombs:bomb_case_material" },
+    "B": { "item": "minecraft:gunpowder" }
+  },
+  "pattern": [
+    "BA",
+    "BB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "yo_bombs:bomb"
+  }
+}

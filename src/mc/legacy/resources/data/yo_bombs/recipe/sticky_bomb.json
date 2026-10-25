@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "yo_bombs:bomb" },
+    { "item": "minecraft:slime_ball" }
+  ],
+  "result": {
+    "count": 1,
+    "id": "yo_bombs:sticky_bomb"
+  }
+}

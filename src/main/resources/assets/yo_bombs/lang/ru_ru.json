@@ -1,0 +1,45 @@
+{
+  "item.yo_bombs.grenade": "Граната",
+  "item.yo_bombs.bomb": "Бомба",
+  "item.yo_bombs.dynamite": "Динамит",
+  "item.yo_bombs.sticky_grenade": "Липкая граната",
+  "item.yo_bombs.sticky_bomb": "Липкая бомба",
+  "item.yo_bombs.sticky_dynamite": "Липкий динамит",
+  
+  "entity.yo_bombs.grenade": "Граната",
+  "entity.yo_bombs.bomb": "Бомба",
+  "entity.yo_bombs.dynamite": "Динамит",
+  "entity.yo_bombs.sticky_grenade": "Липкая граната",
+  "entity.yo_bombs.sticky_bomb": "Липкая бомба",
+  "entity.yo_bombs.sticky_dynamite": "Липкий динамит",
+
+  "itemGroup.yo_bombs": "Yori3o's Explosives",
+  "subtitles.yo_bombs.grenade": "Запал гранаты шипит",
+  "subtitles.yo_bombs.bomb": "Фитиль бомбы тлеет",
+  "subtitles.yo_bombs.dynamite": "Фитиль динамита тлеет",
+  "subtitles.yo_bombs.throw": "Взрывчатка летит",
+  
+
+  "yacl3.config.yo_bombs:server_config.category.server": "Server",
+  "yacl3.config.yo_bombs:server_config.category.server.group.weapon": "Урон",
+  "yacl3.config.yo_bombs:server_config.category.server.group.time": "Время до взрыва",
+  "yacl3.config.yo_bombs:server_config.category.server.group.explosion": "Взрыв",
+  
+  "yacl3.config.yo_bombs:server_config.defaultKnockbackMultiplier": "Отбрасывание, множитель",
+  "yacl3.config.yo_bombs:server_config.grenadeDamageMultiplier": "Урон от гранат, множитель",
+  "yacl3.config.yo_bombs:server_config.bombDamageMultiplier": "Урон от бомб, множитель",
+  "yacl3.config.yo_bombs:server_config.dynamiteDamageMultiplier": "Урон от динамита, множитель",
+  "yacl3.config.yo_bombs:server_config.grenadeDetonationTime": "Время детонации гранат, секунды",
+  "yacl3.config.yo_bombs:server_config.bombDetonationTime": "Время детонации бомб, секунды",
+  "yacl3.config.yo_bombs:server_config.dynamiteDetonationTime": "Время детонации динамита, секунды",
+  "yacl3.config.yo_bombs:server_config.grenadeRadius": "Радиус взрыва гранат",
+  "yacl3.config.yo_bombs:server_config.bombRadius": "Радиус взрыва бомб",
+  "yacl3.config.yo_bombs:server_config.dynamiteRadius": "Радиус взрыва динамита",
+  "yacl3.config.yo_bombs:server_config.grenadeBreakBlocks": "Гранаты взрывают блоки",
+  "yacl3.config.yo_bombs:server_config.bombBreakBlocks": "Бомбы взрывают блоки",
+  "yacl3.config.yo_bombs:server_config.dynamiteBreakBlocks": "Динамит взрывает блоки",
+
+  
+  "modmenu.descriptionTranslation.yo_bombs": "Добавляет взрывчатку в качестве оружия и полезного инструмента.",
+  "fml.menu.mods.info.description.yo_bombs": "Добавляет взрывчатку в качестве оружия и полезного инструмента."
+}

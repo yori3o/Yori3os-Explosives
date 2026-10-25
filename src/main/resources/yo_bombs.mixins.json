@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.yori3o.yo_bombs.common.mixin",
+  "compatibilityLevel": "${java}",
+  "mixins": [
+    "ExplosionRadiusMixin",
+    "ExplosiveMovementMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
